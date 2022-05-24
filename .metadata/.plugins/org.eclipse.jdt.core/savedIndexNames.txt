@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+E:\Университет\ООП\Лабы\OOP-Lab11-ListsInJava\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+634930463.index
+2768476762.index
+1259207542.index
+1041217504.index
+3909365275.index
+1395761405.index
+1007340512.index
+2725142083.index
+654949540.index
+4071361853.index
+1673303522.index
